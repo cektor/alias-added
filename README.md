@@ -29,4 +29,4 @@ sudo chmod +x alias.sh
 
 # Screenshot
 
-![Demo](alias-add.png)
+![Demo](alias-add1.png)
